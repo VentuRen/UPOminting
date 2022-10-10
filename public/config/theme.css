@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+:root {
+  --font:  'VT323';
+  --primary: #393a3921;
+  --primary-text: #ffffff;
+  --secondary: #02ff9e;
+  --secondary-text: #02ff9e;
+  --accent: #50505062;
+  --accent-text: #ffffff;
+}
